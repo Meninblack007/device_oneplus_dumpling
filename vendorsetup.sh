@@ -1,0 +1,3 @@
+add_lunch_combo aosp_dumpling-eng
+add_lunch_combo aosp_dumpling-user
+add_lunch_combo aosp_dumpling-userdebug
